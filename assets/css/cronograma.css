@@ -1,0 +1,24 @@
+body{
+    background-color: orange;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+h1{
+    text-align: center;
+    font-size: 50PX;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+li{
+    color:black ;
+    font-size: larger;
+}
+
+p{
+    color: BLACK;
+}
